@@ -9,5 +9,5 @@
 #Settings: 
 #in Settings.py >> TEMPLATES we add  'website.context_processors.website' in the conext_processors
 #'<context_processors.py_path>.context_processors.<Function_in_context_processors.py>'
-#then in html file we just {{ site.<query_object> }}
+
 
